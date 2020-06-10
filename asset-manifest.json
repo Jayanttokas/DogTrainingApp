@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/DogTrainingApp/static/js/main.bcf3f231.chunk.js",
+    "main.js.map": "/DogTrainingApp/static/js/main.bcf3f231.chunk.js.map",
+    "runtime-main.js": "/DogTrainingApp/static/js/runtime-main.fd925d39.js",
+    "runtime-main.js.map": "/DogTrainingApp/static/js/runtime-main.fd925d39.js.map",
+    "static/js/2.11c22613.chunk.js": "/DogTrainingApp/static/js/2.11c22613.chunk.js",
+    "static/js/2.11c22613.chunk.js.map": "/DogTrainingApp/static/js/2.11c22613.chunk.js.map",
+    "index.html": "/DogTrainingApp/index.html",
+    "precache-manifest.d7de5a311bb4c746179a5092263c92e3.js": "/DogTrainingApp/precache-manifest.d7de5a311bb4c746179a5092263c92e3.js",
+    "service-worker.js": "/DogTrainingApp/service-worker.js",
+    "static/js/2.11c22613.chunk.js.LICENSE.txt": "/DogTrainingApp/static/js/2.11c22613.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd925d39.js",
+    "static/js/2.11c22613.chunk.js",
+    "static/js/main.bcf3f231.chunk.js"
+  ]
+}
